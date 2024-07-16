@@ -6,8 +6,8 @@ Passinate about PLM Developer and Cloud Computing. Trying to be a valuable part 
 
 Intrested in
 CAD Developer, Macro Creation.
-Currently learing Java, Python and NX Open, CATIA CAA
-I would be happy to learn CAD Customization
+Currently learing Java, Python and NX Open, CATIA CAA.
+I would be happy to learn CAD Customization.
 
 <!---
 Prem-Viswanathan/Prem-Viswanathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
